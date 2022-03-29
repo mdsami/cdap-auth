@@ -1,0 +1,22 @@
+{
+    "name": "mdsami/cdap-auth",
+    "description": "CDAP login pachages for composer",
+    "type": "library",
+    "require": {
+        "firebase/php-jwt": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mdsami\\PhpCdap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mdsami",
+            "email": "mdsami.work@gmail.com",
+            "homepage": "https://mdsami.xyz",
+            "role": "Developer"}
+    ],
+    "minimum-stability": "dev"
+}
