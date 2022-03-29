@@ -1,5 +1,5 @@
 # CDAP-Auth
-CDAP login compose pachages for  Laravel
+CDAP login composer pachages for  Laravel
 
 [![Latest Stable Version](https://poser.pugx.org/mdsami/cdap-auth/v/stable)](https://packagist.org/packages/mdsami/cdap-auth)
 [![Total Downloads](https://poser.pugx.org/mdsami/cdap-auth/downloads)](https://packagist.org/packages/mdsami/cdap-auth)
