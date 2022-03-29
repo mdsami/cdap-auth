@@ -18,7 +18,7 @@ CDAP-Auth  open-sourced software licensed under the [MIT license](http://opensou
 ## Getting Started
 To get started add the following package to your `composer.json` file using this command.
 
-    composer requiremdsami/cdap-auth
+    composer require mdsami/cdap-auth
 
 ## Configuring
 **Note: For Laravel 5.5 and above auto-discovery takes care of below configuration.**
